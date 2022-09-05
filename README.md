@@ -1,0 +1,2 @@
+# Phyton
+ simulador de dado
