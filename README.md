@@ -1,2 +1,2 @@
-# Phyton
- simulador de dado
+# Gerador de dado em Phyton
+ simulador de dado 6 lados
